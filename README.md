@@ -1,4 +1,4 @@
-#The Titanic Dataset analyzed in R Studio 
+ #The Titanic Dataset analyzed in R Studio 
 
 This coding task and dataset came from [Kaggle.com](https://www.kaggle.com/c/titanic/data).
 I followed the following [tutorial on Youtube.](https://www.youtube.com/watch?v=Zx2TguRHrJE) 
